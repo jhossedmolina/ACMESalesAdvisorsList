@@ -31,3 +31,9 @@ C:\Users\jhoss\Documents\Portfolio\ACMESalesAdvisorsList\ACMESalesAdvisorsList\A
 C:\Users\jhoss\Documents\Portfolio\ACMESalesAdvisorsList\ACMESalesAdvisorsList\ACMESalesAdvisorsListBackend\ACMESalesAdvisorsListBackend.API\obj\Debug\net8.0\ACMESalesAdvisorsListBackend.API.pdb
 C:\Users\jhoss\Documents\Portfolio\ACMESalesAdvisorsList\ACMESalesAdvisorsList\ACMESalesAdvisorsListBackend\ACMESalesAdvisorsListBackend.API\obj\Debug\net8.0\ACMESalesAdvisorsListBackend.API.genruntimeconfig.cache
 C:\Users\jhoss\Documents\Portfolio\ACMESalesAdvisorsList\ACMESalesAdvisorsList\ACMESalesAdvisorsListBackend\ACMESalesAdvisorsListBackend.API\obj\Debug\net8.0\ref\ACMESalesAdvisorsListBackend.API.dll
+C:\Users\jhoss\Documents\Portfolio\ACMESalesAdvisorsList\ACMESalesAdvisorsList\ACMESalesAdvisorsListBackend\ACMESalesAdvisorsListBackend.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\jhoss\Documents\Portfolio\ACMESalesAdvisorsList\ACMESalesAdvisorsList\ACMESalesAdvisorsListBackend\ACMESalesAdvisorsListBackend.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\jhoss\Documents\Portfolio\ACMESalesAdvisorsList\ACMESalesAdvisorsList\ACMESalesAdvisorsListBackend\ACMESalesAdvisorsListBackend.API\bin\Debug\net8.0\ACMESalesAdvisorsListBackend.Core.dll
+C:\Users\jhoss\Documents\Portfolio\ACMESalesAdvisorsList\ACMESalesAdvisorsList\ACMESalesAdvisorsListBackend\ACMESalesAdvisorsListBackend.API\bin\Debug\net8.0\ACMESalesAdvisorsListBackend.Infraestructure.dll
+C:\Users\jhoss\Documents\Portfolio\ACMESalesAdvisorsList\ACMESalesAdvisorsList\ACMESalesAdvisorsListBackend\ACMESalesAdvisorsListBackend.API\bin\Debug\net8.0\ACMESalesAdvisorsListBackend.Core.pdb
+C:\Users\jhoss\Documents\Portfolio\ACMESalesAdvisorsList\ACMESalesAdvisorsList\ACMESalesAdvisorsListBackend\ACMESalesAdvisorsListBackend.API\bin\Debug\net8.0\ACMESalesAdvisorsListBackend.Infraestructure.pdb

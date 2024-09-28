@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ACMESalesAdvisorsListBackend.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ad08b8ad17dea980bc884793103dd528ab03855")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15fae92e4410a1821f72fbd7c1f31039df5896f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ACMESalesAdvisorsListBackend.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ACMESalesAdvisorsListBackend.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

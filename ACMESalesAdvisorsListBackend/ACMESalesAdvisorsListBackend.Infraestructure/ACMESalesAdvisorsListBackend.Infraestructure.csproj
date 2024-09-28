@@ -7,7 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ACMESalesAdvisorsListBackend.Core\ACMESalesAdvisorsListBackend.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Persistence\Migrations\" />
+    <Folder Include="Persistence\Context\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
 
 </Project>

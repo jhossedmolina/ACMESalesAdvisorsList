@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EB937C-E1F4-455F-9BFF-73F8B3AFEF19}|ACMESalesAdvisorsListBackend.Core\\ACMESalesAdvisorsListBackend.Core.csproj|c:\\users\\jhoss\\documents\\portfolio\\acmesalesadvisorslist\\acmesalesadvisorslist\\acmesalesadvisorslistbackend\\acmesalesadvisorslistbackend.core\\services\\commercialadvisorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EB937C-E1F4-455F-9BFF-73F8B3AFEF19}|ACMESalesAdvisorsListBackend.Core\\ACMESalesAdvisorsListBackend.Core.csproj|solutionrelative:acmesalesadvisorslistbackend.core\\services\\commercialadvisorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A607F7-F83E-4894-A047-F5288AE2057F}|ACMESalesAdvisorsListBackend.API\\ACMESalesAdvisorsListBackend.API.csproj|c:\\users\\jhoss\\documents\\portfolio\\acmesalesadvisorslist\\acmesalesadvisorslist\\acmesalesadvisorslistbackend\\acmesalesadvisorslistbackend.api\\controllers\\commercialadvisorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A607F7-F83E-4894-A047-F5288AE2057F}|ACMESalesAdvisorsListBackend.API\\ACMESalesAdvisorsListBackend.API.csproj|solutionrelative:acmesalesadvisorslistbackend.api\\controllers\\commercialadvisorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EB937C-E1F4-455F-9BFF-73F8B3AFEF19}|ACMESalesAdvisorsListBackend.Core\\ACMESalesAdvisorsListBackend.Core.csproj|c:\\users\\jhoss\\documents\\portfolio\\acmesalesadvisorslist\\acmesalesadvisorslist\\acmesalesadvisorslistbackend\\acmesalesadvisorslistbackend.core\\interfaces\\icommercialadvisorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EB937C-E1F4-455F-9BFF-73F8B3AFEF19}|ACMESalesAdvisorsListBackend.Core\\ACMESalesAdvisorsListBackend.Core.csproj|solutionrelative:acmesalesadvisorslistbackend.core\\interfaces\\icommercialadvisorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2A607F7-F83E-4894-A047-F5288AE2057F}|ACMESalesAdvisorsListBackend.API\\ACMESalesAdvisorsListBackend.API.csproj|c:\\users\\jhoss\\documents\\portfolio\\acmesalesadvisorslist\\acmesalesadvisorslist\\acmesalesadvisorslistbackend\\acmesalesadvisorslistbackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2A607F7-F83E-4894-A047-F5288AE2057F}|ACMESalesAdvisorsListBackend.API\\ACMESalesAdvisorsListBackend.API.csproj|solutionrelative:acmesalesadvisorslistbackend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EB937C-E1F4-455F-9BFF-73F8B3AFEF19}|ACMESalesAdvisorsListBackend.Core\\ACMESalesAdvisorsListBackend.Core.csproj|c:\\users\\jhoss\\documents\\portfolio\\acmesalesadvisorslist\\acmesalesadvisorslist\\acmesalesadvisorslistbackend\\acmesalesadvisorslistbackend.core\\entities\\commercialadvisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EB937C-E1F4-455F-9BFF-73F8B3AFEF19}|ACMESalesAdvisorsListBackend.Core\\ACMESalesAdvisorsListBackend.Core.csproj|solutionrelative:acmesalesadvisorslistbackend.core\\entities\\commercialadvisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EB937C-E1F4-455F-9BFF-73F8B3AFEF19}|ACMESalesAdvisorsListBackend.Core\\ACMESalesAdvisorsListBackend.Core.csproj|c:\\users\\jhoss\\documents\\portfolio\\acmesalesadvisorslist\\acmesalesadvisorslist\\acmesalesadvisorslistbackend\\acmesalesadvisorslistbackend.core\\dtos\\commercialadvisordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EB937C-E1F4-455F-9BFF-73F8B3AFEF19}|ACMESalesAdvisorsListBackend.Core\\ACMESalesAdvisorsListBackend.Core.csproj|solutionrelative:acmesalesadvisorslistbackend.core\\dtos\\commercialadvisordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FA8869-2032-4087-AC0F-C5D88A637A0B}|ACMESalesAdvisorsListBackend.Infraestructure\\ACMESalesAdvisorsListBackend.Infraestructure.csproj|c:\\users\\jhoss\\documents\\portfolio\\acmesalesadvisorslist\\acmesalesadvisorslist\\acmesalesadvisorslistbackend\\acmesalesadvisorslistbackend.infraestructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FA8869-2032-4087-AC0F-C5D88A637A0B}|ACMESalesAdvisorsListBackend.Infraestructure\\ACMESalesAdvisorsListBackend.Infraestructure.csproj|solutionrelative:acmesalesadvisorslistbackend.infraestructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommercialAdvisorController.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.API\\Controllers\\CommercialAdvisorController.cs",
+              "RelativeDocumentMoniker": "ACMESalesAdvisorsListBackend.API\\Controllers\\CommercialAdvisorController.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.API\\Controllers\\CommercialAdvisorController.cs",
+              "RelativeToolTip": "ACMESalesAdvisorsListBackend.API\\Controllers\\CommercialAdvisorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:49:54.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommercialAdvisorService.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.Core\\Interfaces\\ICommercialAdvisorService.cs",
+              "RelativeDocumentMoniker": "ACMESalesAdvisorsListBackend.Core\\Interfaces\\ICommercialAdvisorService.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.Core\\Interfaces\\ICommercialAdvisorService.cs",
+              "RelativeToolTip": "ACMESalesAdvisorsListBackend.Core\\Interfaces\\ICommercialAdvisorService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:42:59.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommercialAdvisorService.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.Core\\Services\\CommercialAdvisorService.cs",
+              "RelativeDocumentMoniker": "ACMESalesAdvisorsListBackend.Core\\Services\\CommercialAdvisorService.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.Core\\Services\\CommercialAdvisorService.cs",
+              "RelativeToolTip": "ACMESalesAdvisorsListBackend.Core\\Services\\CommercialAdvisorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:42:42.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.API\\Program.cs",
+              "RelativeDocumentMoniker": "ACMESalesAdvisorsListBackend.API\\Program.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.API\\Program.cs",
+              "RelativeToolTip": "ACMESalesAdvisorsListBackend.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:40:23.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommercialAdvisor.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.Core\\Entities\\CommercialAdvisor.cs",
+              "RelativeDocumentMoniker": "ACMESalesAdvisorsListBackend.Core\\Entities\\CommercialAdvisor.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.Core\\Entities\\CommercialAdvisor.cs",
+              "RelativeToolTip": "ACMESalesAdvisorsListBackend.Core\\Entities\\CommercialAdvisor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:33:07.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommercialAdvisorDto.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.Core\\DTOs\\CommercialAdvisorDto.cs",
+              "RelativeDocumentMoniker": "ACMESalesAdvisorsListBackend.Core\\DTOs\\CommercialAdvisorDto.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.Core\\DTOs\\CommercialAdvisorDto.cs",
+              "RelativeToolTip": "ACMESalesAdvisorsListBackend.Core\\DTOs\\CommercialAdvisorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:32:51.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.Infraestructure\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "ACMESalesAdvisorsListBackend.Infraestructure\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\ACMESalesAdvisorsList\\ACMESalesAdvisorsList\\ACMESalesAdvisorsListBackend\\ACMESalesAdvisorsListBackend.Infraestructure\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "ACMESalesAdvisorsListBackend.Infraestructure\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:25:39.547Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ACMESalesAdvisorsListBackend.API.Controllers.CommercialAdvisorController",
+    "Method": "GetAllCommercialAdvisors",
+    "RelativePath": "api/CommercialAdvisor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

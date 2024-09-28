@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ACMESalesAdvisorsListBackend.Core\ACMESalesAdvisorsListBackend.Core.csproj" />
     <ProjectReference Include="..\ACMESalesAdvisorsListBackend.Infraestructure\ACMESalesAdvisorsListBackend.Infraestructure.csproj" />
   </ItemGroup>
