@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zZ9OTK/qUIRtQvdGH702Y81c2ysMCkfvNahv2diPAuQ=",
+  "Source": "ACMESalesAdvisorsListBackend.API",
+  "BasePath": "_content/ACMESalesAdvisorsListBackend.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
